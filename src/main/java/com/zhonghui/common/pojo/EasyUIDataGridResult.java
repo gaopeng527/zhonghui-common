@@ -1,7 +1,11 @@
 package com.zhonghui.common.pojo;
 
 import java.util.List;
-
+/**
+ * 用于返回商品数据
+ * @author DELL
+ *
+ */
 public class EasyUIDataGridResult {
 	private long total;
 	private List<?> rows;
