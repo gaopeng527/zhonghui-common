@@ -1,6 +1,6 @@
 package com.zhonghui.common.pojo;
 /**
- * EasyUI树形控件节点格式
+ * EasyUI树形控件节点格式，用于生成json
  * @author DELL
  *
  */
